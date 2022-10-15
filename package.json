@@ -13,7 +13,6 @@
   },
   "scripts": {
     "build": "webpack",
-    "watch": "webpack -w",
-    "target": "serverless"
+    "watch": "webpack -w"
   }
 }
